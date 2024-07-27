@@ -113,9 +113,9 @@ global.rcanal = {
 contextInfo: {
 isForwarded: true,
 forwardedNewsletterMessageInfo: {
-newsletterJid: "120363263466636910@newsletter",
+newsletterJid: "",
 serverMessageId: 100,
-newsletterName: 'Luffy Bot Channel 🚩',
+newsletterName: 'Spider-Bot-MD',
 },
 externalAdReply: { 
 showAdAttribution: true,
