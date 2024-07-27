@@ -24,7 +24,7 @@ global.suittag = ['593979133620']
 global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packname = ' SPIDER 𝐁𝐨𝐭 - 𝐌𝐃 ✰'
+global.packname = ''
 global.author = 'R.A 👑'
 global.wm = '✨◌*̥₊ SPIDERBᴏᴛ-MD ◌❐⚡༉'
 global.titulowm = 'SPIDERBot-MD 🍟'
@@ -32,7 +32,7 @@ global.titulowm2 = 'R.A'
 global.igfg = '𝙾𝙵𝙲.R.A'
 global.botname = 'SPIDER Bᴏᴛ - MD 🚩'
 global.dev = '👑 Developed By • ✨ Ofc.R.A'
-global.textbot = 'SPIDER𝗕𝗼𝘁 : 𝗢𝗳𝗰.R.A 🚩'
+global.textbot = ''
 global.vs = '2.0.2'
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
