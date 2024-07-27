@@ -32,7 +32,7 @@ let tags = {
 const defaultMenu = {
   before: `*꒷꒦꒷꒷꒦꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷꒷꒦꒷꒷꒦꒷꒷꒦꒷꒦꒷꒦꒷*
 
-“ Hola *%name*, mi nombre es *LuffyBot*, Cómo se encuentra el día de hoy?  ”
+“ Hola *%name*, mi nombre es *SpiderBot*, Cómo se encuentra el día de hoy?  ”
 
 *╭──⬣「 Info User 」⬣*
 *│* ✰ 💌 *Cliente:* %name
@@ -43,7 +43,7 @@ const defaultMenu = {
 *╰──⬣*
 
 *╭──⬣「 Info Bot 」⬣*
-*│* ✰ 🍟 *Bot:* Luffy Bot - MD 
+*│* ✰ 🍟 *Bot:* Spider Bot - MD 
 *│* ✰ 🚩 *Modo* Público
 *│* ✰ 📚 *Baileys:* Multi Device
 *│* ✰ 🕒 *Tiempo Activo:* %muptime
