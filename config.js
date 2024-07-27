@@ -24,15 +24,15 @@ global.suittag = ['593979133620']
 global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packname = '⪛✰ 𝐋𝐮𝐟𝐟𝐲 𝐁𝐨𝐭 - 𝐌𝐃 ✰⪜'
-global.author = 'Oғᴄ.Dɪᴇɢᴏ 👑'
-global.wm = '✨◌*̥₊ LᴜғғʏBᴏᴛ-MD ◌❐⚡༉'
-global.titulowm = 'LuffyBot-MD 🍟'
-global.titulowm2 = 'Ofc.Diego'
-global.igfg = '𝙾𝙵𝙲.𝙳𝙸𝙴𝙶𝙾'
-global.botname = 'Lᴜғғʏ Bᴏᴛ - MD 🚩'
-global.dev = '👑 Developed By • ✨ Ofc.Diego'
-global.textbot = '𝗟𝘂𝗳𝗳𝘆𝗕𝗼𝘁 : 𝗢𝗳𝗰𝗗𝗶𝗲𝗴𝗼 🚩'
+global.packname = ' SPIDER 𝐁𝐨𝐭 - 𝐌𝐃 ✰'
+global.author = 'R.A 👑'
+global.wm = '✨◌*̥₊ SPIDERBᴏᴛ-MD ◌❐⚡༉'
+global.titulowm = 'SPIDERBot-MD 🍟'
+global.titulowm2 = 'R.A'
+global.igfg = '𝙾𝙵𝙲.R.A'
+global.botname = 'SPIDER Bᴏᴛ - MD 🚩'
+global.dev = '👑 Developed By • ✨ Ofc.R.A'
+global.textbot = 'SPIDER𝗕𝗼𝘁 : 𝗢𝗳𝗰.R.A 🚩'
 global.vs = '2.0.2'
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
@@ -65,7 +65,7 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nLuffy`;
-global.nomorown = '573012482597';
+global.nomorown = '593979133620';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
