@@ -14,16 +14,6 @@ const handler = async (m, { conn, command, text, usedPrefix }) => {
         description = `🖤 Los calculos han arrojado que ${text.toUpperCase()} es *${percentages}%* Gay ${emoji}\n> ✰ Lo tuyo, lo tuyo es que eres Gay.`;
       }
       break;
-       case 'perro':
-      emoji = '🐶';
-      if (percentages < 50) {
-        description = `👻 Los cálculos han arrojado que ${text.toUpperCase()} es *${percentages}%* ${command} ${emoji}\n✰ por feo estas solo.`;
-      } else if (percentages > 100) {
-        description = `❣️ Los cálculos han arrojado que ${text.toUpperCase()} es *${percentages}%* ${command} ${emoji}\n> ✰ ¡por eso tu ex te engaño!`;
-      } else {
-        description = `💗 Los cálculos han arrojado que ${text.toUpperCase()} es *${percentages}%* ${command} ${emoji}\n> ✰ YO por perro me lo busque!`;
-      }
-      break;
     case 'lesbiana':
       emoji = '🏳️‍🌈';
       if (percentages < 50) {
