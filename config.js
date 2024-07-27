@@ -25,7 +25,7 @@ global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packname = ''
-global.author = 'R.A 👑'
+global.author = 'SPIDERBOT-R.A 👑'
 global.wm = '✨◌*̥₊ SPIDERBᴏᴛ-MD ◌❐⚡༉'
 global.titulowm = 'SPIDERBot-MD 🍟'
 global.titulowm2 = 'R.A'
